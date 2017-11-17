@@ -1,0 +1,26 @@
+var twilio = {
+    "accountSID": "",
+    "authToken": "",
+    "from": "",
+    "to": ""
+}
+
+var email = {
+    "TO": "",
+    "FROM": "",
+    "BODY": ""
+}
+
+var orgId = "o6i047";
+
+var watson = {
+        url: "",
+    	username: "",
+        token: "",
+        maxWait: ""
+    };
+    
+    
+var accountKey = ""
+var accountSecret = ""
+    
